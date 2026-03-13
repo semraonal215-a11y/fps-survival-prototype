@@ -1,10 +1,6 @@
 # fps-survival-prototype
 FPS Survival Prototype developed with Unity and C#
 
-## Gameplay Screenshot
-
-![Gameplay Screenshot](gamename.png)
-
 ## Features
 
 - FPS player controller
