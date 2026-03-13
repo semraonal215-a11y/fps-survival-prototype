@@ -32,3 +32,7 @@ FPS Survival Prototype developed with Unity and C#
 - Game flow manager
 - Object pooling
 - UI systems
+
+## Video
+
+Gameplay video of the prototype: https://www.youtube.com/watch?v=jvEZOKZmgTM
